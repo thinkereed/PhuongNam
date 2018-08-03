@@ -1,4 +1,5 @@
-﻿ --sp_addtype [ @typename = ] type,   
+﻿--Nha test tren online
+ --sp_addtype [ @typename = ] type,   
  --   [ @phystype = ] system_data_type   
  --   [ , [ @nulltype = ] 'null_type' ] ;  
 
