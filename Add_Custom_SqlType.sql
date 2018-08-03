@@ -1,4 +1,5 @@
-﻿--Nha test tren online
+﻿--test lan 2
+ --Nha test tren online
  --sp_addtype [ @typename = ] type,   
  --   [ @phystype = ] system_data_type   
  --   [ , [ @nulltype = ] 'null_type' ] ;  
